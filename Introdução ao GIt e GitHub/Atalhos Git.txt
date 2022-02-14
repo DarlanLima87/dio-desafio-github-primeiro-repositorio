@@ -1,0 +1,4 @@
+Atalhos mais Usados no Git
+
+ls = listar
+ctrl + L = Limpar
